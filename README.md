@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Physically Based Shader Development for Unity 2017*](http://www.apress.com/9781484233085) by 978-1-4842-3309-2 (Apress, Claudia Doppioslash).
+This repository accompanies [*Physically Based Shader Development for Unity 2017*](http://www.apress.com/9781484233085) by Claudia Doppioslash (Apress, 2018).
 
 [comment]: #cover
 ![Cover image](9781484233085.jpg)
